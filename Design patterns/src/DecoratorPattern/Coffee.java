@@ -16,7 +16,7 @@ class SimpleCoffee implements Coffee {
 class ColdCoffee implements Coffee {
     @Override
     public int cost() {
-        return 10;
+        return 20;
     }
 }
 
